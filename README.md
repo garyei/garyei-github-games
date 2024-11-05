@@ -10,3 +10,4 @@ This fun open source game was cloned from: https://github.com/jakesgordon/javasc
 **Author** Gary Eisenhuth
 **Date** 11/05/24
 **Project:** Project 3: GitHub Games
+**Time:** 9:30am EST to 1:30pm EST
